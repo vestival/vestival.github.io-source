@@ -25,5 +25,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: vestival
+          user_email: victor.estival@gmail.com
           publish_branch: master
         #   cname: example.com
