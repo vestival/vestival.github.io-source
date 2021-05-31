@@ -86,6 +86,11 @@ experience:
     - title: "Principal Technical Marketing Manager"
       company: "Red Hat"
       duration: "Dec 2015 - Jan 2020"
+
+    - title: "Cloud Solutions Architect"
+      company: "Canonical"
+      duration: "Aug 2014 - Dec 2015"
+
   companies:
     - logo:
         x: "img/companies/SUSE.png"
@@ -96,12 +101,16 @@ experience:
         x: "img/companies/msft.png"
         _2x: "img/companies/msft@2x.png"
       alt: "Microsoft"
-
       
     - logo:
         x: "img/companies/rh.png"
         _2x: "img/companies/rh@2x.png"
       alt: "Red Hat"
+
+    - logo:
+        x: "img/companies/cn.png"
+        _2x: "img/companies/cn@2x.png"
+      alt: "Canonical"
 
 # Client & Work
 client_and_work:
